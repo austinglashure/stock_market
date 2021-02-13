@@ -23,6 +23,7 @@ market cap = short for market capitalization, is the total value of all the stoc
 - the true value of the company can go up, while the stock price doesn't move, or even goes down despite the value of the company
 - institutional players like hedge/mutual funds and pensions can have a large effect on the price of a stock
 
+
 HOW TO GET STARTED WITH STOCKS
 
 - stocks are sold at stock exchanges
@@ -50,6 +51,7 @@ stock exchange = a place where buyers and sellers show up and exchange stocks wi
     GTC order = stands for "good til cancelled" and won't expire until it's cancelled
     - there are pre-market and post-market trading sessions, ordinarily very liquid and stable stocks will behave wildly
 
+
 MAKE MONEY WITH ETF'S
 
 index = a collection of stocks packaged up, and treated as one stock
@@ -69,6 +71,7 @@ cost averaging = the practice of spending the same amount of money on an index r
 - a good time to invest in indexes is during bear markets
     bear market = a market that reports consistent losses, will have pessimistic behavior
 
+
 CREATING PASSIVE INCOME WITH DIVIDEND STOCKS
 
 dividend stock = a stock that will make a cash payment into the brokerage account
@@ -80,6 +83,7 @@ dividend yield = annual dividend / initial investment, or the 3% figure above
 - average savings account will have a 2% yield, which is lower than dividends, but is safer
 - successuful companies will grow their dividend every year, @ a 7.2% growth, 10 years and the dividend doubles
 - this will trickle down and double your dividend yield too, since you haven't invested more, and the dividend has doubled
+
 
 HOW TO PICK STOCKS LIKE WARREN BUFFET
 
@@ -101,6 +105,7 @@ HOW TO PICK STOCKS LIKE WARREN BUFFET
 "The single most important decision in evaluating a business is pricing power. If you've got the poewr to raise prices without 
 losing business to a competitor, you've got a very good business. And if you have to have a prayer session before raising the 
 price by ten percent, then you've got a terrible business."
+
 
 VALUE INVESTING AND P/E'S
 
@@ -124,6 +129,7 @@ value trap = paying a cheap price for a stock that is going to 0
 - a low or falling stock price will also hurt that company's recruiting prospects and open it up to buyouts from tech giants
 - never buy a stock just because it has a low P/E
 
+
 MAKE MONEY WITH GROWTH STOCKS
 
 growth stock = a stock that is expected to grow rapidly in revenues and earnings
@@ -135,26 +141,93 @@ growth stock = a stock that is expected to grow rapidly in revenues and earnings
     - this is why if you're trading growth stocks, TRADE WITH A STOP LOSS
 
 - Author's method for trading growth stocks:
+
 BUY:
+
     - stocks hitting 52 week highs or all time highs
         - seems counter intuitive, but a stock that is growing fast will spend a lot of time trading all time highs
         - every holder of a stock trading at an all time high has a profit
         - analysts go on TV and talk about it, driving a whole new set of buyers, and creating a "rocket stock"
         - stocks at all time lows have holders motivated to sell, which makes it hard for a down stock to rally
-    - 
+        
+    - Buy stocks that are trading above their 50 day Moving Average, and if their 50 MA is trending above its 200 day MA
+        - never buy a stock that is trading below it's 200 day moving average
+            - or if the 50 day is below the 200
+            - it indicates the stock is in a downtrend
+            - it's very dangerous to trade a growth stock on a downtrend because they may grow 300% for a few years, then
+            fall 95% on a downtrend
+            
+    - a stock gaps up to a new high after a strong earnings report
+        -PEAD aka Post-Earnings-Announcement-Drift, a gapped up stock will tend in the same direction for days or weeks
+        
+    - looking to buy growth stocks with a market cap below 5 billion, so that when bigger institutions get in, it will 
+    cause the stock to soar
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    - another buy signal can be stocks with a high "short % of float" that is starting go grow
+        - it will cause a short squeeze and drive the price up as people cover their positions
 
+SELL:
+
+    - Take Profit when:
+        * stock moves up 100% in less than 2 weeks
+        * you're up 300% your entry price
+        * you start hearing about the stock from everyone, it's become crowded and is more dangerous
+        
+    - Exit (with profit or loss) when:
+        * stock closes below its 50 day MA
+            - use this for shorter moves
+            
+        * stock closes below its 200 day MA
+        * stock's 50 day MA crosses its 200 day MA
+            - use this for longer moves
+        * stock closes below a 10 day exponential moving average
+        * can scale out of a profitable position by selling 25% of the postion weekly
+            - carves out a profit while keeping some equity if the stock is going to jump again
+            
+    - never add to a losing postion
+        - pick a stop loss level when you get into a stock and stick to it.
+        
+the key to making a lot of money is not losing a lot of money in the porcess
+    - "miss close" and keep your losses small and manageable
+    
+- growth stocks perform well when the entire stock market is bullish
+
+
+MAKE MONEY WITH IPO'S
+
+IPO = Initial Public Offering
+    - when a formerly private company takes on outside investors, either by insiders selling existing shares,
+    or by creating new shares to be sold to the public
+    - those shares get put on the stock exchanges, and usually get a lot of hype and media coverage
+    
+    - be wary, insiders are selling their shares for a reason, and this can be an opportunity for them
+    to fleece retail investors
+    
+    - IPOs have regulation on how many shares can be traded at once, and usually has a lot of shares locked up
+    for up to 6 months
+        - this leads to a small float and the stock will move around more easily
+        
+- IPOs are less lucrative now because companies go public much later in the business cycle.
+    - Amazon went public 3 years after founding, Uber took 10 years
+    - Amazon went from 438 million to 900 billion market cap (2052x)
+    - Uber opened at 80 billion, and may never reach 800 billion (10x)
+    
+- IPOs follow the flow of the market, only much more so. A bad trading day can make an IPO fall 50%
+    - Likewise, if the S&P is bottoming out, a gamble on a good looking IPO could double your money
+    
+- IPOs rarely hold value long, so trade with a strict stop loss, with a 15 day EMA
+    - if it trades below that line, then its time to make an exit
+    
+- BE AWARE OF WHEN THE LOCKUP EXPIRES
+    - this is an exit signal and can often cause the stock to tank
+    - pay attention to the price action of a stock around lockup
+
+
+HOW TO PROFIT FROM A STOCK THAT IS GOING NOWHERE
+
+- lack of price action doesn't mean lack of profits
+
+- 
 
 
 
